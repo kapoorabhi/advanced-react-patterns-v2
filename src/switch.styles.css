@@ -65,3 +65,43 @@ by Mauricio Allende (https://mallendeo.com/)
   width: 1px;
   white-space: nowrap;
 }
+
+/* Styles for my custom checkbox below*/
+/*
+.custom-checkbox {
+  display: block;
+}
+
+.toggle-check {
+  display: none;
+}
+
+.toggle-custom {
+  width: 10em;
+  height: 4em;
+  border-radius: 4em;
+  background-color: #ffc6c6;
+  display: inline-block;
+  cursor: pointer;
+  padding: 6px;
+}
+
+.toggle-custom::after {
+  width: 37%;
+  height: 100%;
+  background-color: snow;
+  display: block;
+  content: ' ';
+  border-radius: 3em;
+  position: relative;
+  left: 0;
+}
+
+.toggle-custom-on {
+  background-color: #ff5c5c;
+}
+
+.toggle-custom-on::after {
+  left: 62%;
+}
+*/
